@@ -1,6 +1,8 @@
 # Soulbound Enchantment
 
-The `Soulbound` enchantment return the item to you upon death and the enchantment can be obtained from the enchantment table, loot chests or trading with villagers.
+The `Soulbound` enchantment return the item to you upon death.
+
+The enchantment can be obtained from the enchantment table, loot chests or trading with villagers.
 
 This Data-Pack is not compatible with the `doImmediateRespawn` gamerule in true.
 
