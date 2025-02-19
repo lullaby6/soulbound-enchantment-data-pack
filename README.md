@@ -17,7 +17,6 @@ This Data-Pack is not compatible with the `doImmediateRespawn` gamerule in true.
 
 Version: `1.21.X`
 
-
 ## 📂 Installation
 
 Move the downloaded file in the path `.minecraft/saves/[world]/datapacks`
