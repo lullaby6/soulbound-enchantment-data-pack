@@ -3,6 +3,6 @@
     "entity": "this",
     "predicate": {
         "type": "minecraft:item",
-        "nbt": "{Item:{components:{\"minecraft:enchantments\":{levels:{\"soulbound_enchantment:soulbound\":1}}}}}"
+        "nbt": "{Item:{components:{\"minecraft:enchantments\":{\"soulbound_enchantment:soulbound\":1}}}}"
     }
 }
