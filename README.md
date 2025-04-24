@@ -13,17 +13,7 @@ The `Soulbound` enchantment returns your item upon death.
 
 The enchantment can be obtained from the enchantment table, loot chests or trading with villagers.
 
-This Data-Pack is not compatible with the `doImmediateRespawn` gamerule in true.
-
-Version: `1.21.X`
-
-## 📂 Installation
-
-Move the downloaded file in the path `.minecraft/saves/[world]/datapacks`
-
-## 👾 Bugs/Issues
-
-Please report any bug/issues to the [Discord Server](https://discord.gg/5UdcDa5xNC) in the `bugs` channel, or create a issue in the [Github Repostiroy](https://github.com/lullaby6/soulbound-enchantment-data-pack/issues), or a comment in [Planet Minecraft](https://www.planetminecraft.com/data-pack/soulbound-enchantment-new-enchantment-thats-returns-your-item-upon-death-1-21-x/).
+Not compatible with the `doImmediateRespawn` gamerule in true.
 
 ## ⌨️ Commands
 
@@ -37,18 +27,6 @@ Enchant:
 
 ```mcfunction
 /enchant @s soulbound_enchantment:soulbound
-```
-
-Disable:
-
-```mcfunction
-/datapack disable "file/soulbound-enchantment.zip"
-```
-
-Enable:
-
-```mcfunction
-/datapack enable "file/soulbound-enchantment.zip"
 ```
 
 ## 🪪 License
