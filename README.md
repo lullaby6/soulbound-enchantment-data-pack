@@ -53,4 +53,4 @@ Enable:
 
 ## 🪪 License
 
-[MIT](https://github.com/lullaby6/soulbound-enchantment-data-pack/blob/main/LICENSE)
+[AGPLv3](https://github.com/lullaby6/soulbound-enchantment-data-pack/blob/main/LICENSE)
